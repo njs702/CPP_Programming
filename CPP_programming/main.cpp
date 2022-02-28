@@ -7,7 +7,7 @@ private:
 
 public:
 	RandNum() {
-		randomize(); // 랜덤 난수 호출하기 위한 설정
+		randomize(); // 랜덤 난수 호출하기 위한 설정 srand((unsigned)time(NULL))
 	}
 
 	void Generate() {

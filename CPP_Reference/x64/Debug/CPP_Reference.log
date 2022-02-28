@@ -1,0 +1,6 @@
+﻿  main.cpp
+  ref1.cpp
+C:\Users\USER\source\repos\CPP_programming\CPP_Reference\ref1.cpp(4,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\USER\source\repos\CPP_programming\CPP_Reference\ref1.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+  CPP_Reference.vcxproj -> C:\Users\USER\source\repos\CPP_programming\x64\Debug\CPP_Reference.exe
