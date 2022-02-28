@@ -9,8 +9,8 @@ int main() {
 	ref2(a);
 	printf("a 값 : %d\n", a);*/
 
-	char* name;
+	/*char* name;
 	ref3(name);
 	printf("이름은 %s 입니다.\n", name);
-	free(name);
+	free(name);*/
 }
