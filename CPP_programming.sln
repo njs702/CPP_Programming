@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class", "class\class.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class_module", "class_module\class_module.vcxproj", "{78B91FFD-D426-4F18-90C0-288A749C4EB6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "constructor_destructor", "constructor_destructor\constructor_destructor.vcxproj", "{EDD6AB90-962E-4688-AEBA-8C96DEDAE45E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{78B91FFD-D426-4F18-90C0-288A749C4EB6}.Release|x64.Build.0 = Release|x64
 		{78B91FFD-D426-4F18-90C0-288A749C4EB6}.Release|x86.ActiveCfg = Release|Win32
 		{78B91FFD-D426-4F18-90C0-288A749C4EB6}.Release|x86.Build.0 = Release|Win32
+		{EDD6AB90-962E-4688-AEBA-8C96DEDAE45E}.Debug|x64.ActiveCfg = Debug|x64
+		{EDD6AB90-962E-4688-AEBA-8C96DEDAE45E}.Debug|x64.Build.0 = Debug|x64
+		{EDD6AB90-962E-4688-AEBA-8C96DEDAE45E}.Debug|x86.ActiveCfg = Debug|Win32
+		{EDD6AB90-962E-4688-AEBA-8C96DEDAE45E}.Debug|x86.Build.0 = Debug|Win32
+		{EDD6AB90-962E-4688-AEBA-8C96DEDAE45E}.Release|x64.ActiveCfg = Release|x64
+		{EDD6AB90-962E-4688-AEBA-8C96DEDAE45E}.Release|x64.Build.0 = Release|x64
+		{EDD6AB90-962E-4688-AEBA-8C96DEDAE45E}.Release|x86.ActiveCfg = Release|Win32
+		{EDD6AB90-962E-4688-AEBA-8C96DEDAE45E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
