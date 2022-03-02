@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Junseok\source\repos\cpp_in_home\cpp_in_home\main.cpp(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\Junseok\source\repos\cpp_in_home\cpp_in_home\main.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  cpp_in_home.vcxproj -> C:\Users\Junseok\source\repos\cpp_in_home\Debug\cpp_in_home.exe
