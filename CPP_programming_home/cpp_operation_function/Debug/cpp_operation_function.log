@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Junseok\source\repos\CPP_Programming\CPP_programming_home\cpp_operation_function\main.cpp(23,9): warning C4552: '%': 식의 결과가 사용되지 않습니다.
+C:\Users\Junseok\source\repos\CPP_Programming\CPP_programming_home\cpp_operation_function\main.cpp(25,9): warning C4552: '%': 식의 결과가 사용되지 않습니다.
+  cpp_operation_function.vcxproj -> C:\Users\Junseok\source\repos\CPP_Programming\CPP_programming_home\Debug\cpp_operation_function.exe
