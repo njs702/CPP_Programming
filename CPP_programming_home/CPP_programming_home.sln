@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_friend_member", "cpp_fr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_operation_function", "cpp_operation_function\cpp_operation_function.vcxproj", "{AC6491B8-9150-4A10-8DC0-38FE5FE4B0C6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_operation_function_class_with_basic", "cpp_operation_function_class_with_basic\cpp_operation_function_class_with_basic.vcxproj", "{CDB4E593-920D-4616-A6F3-D18C46859BEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{AC6491B8-9150-4A10-8DC0-38FE5FE4B0C6}.Release|x64.Build.0 = Release|x64
 		{AC6491B8-9150-4A10-8DC0-38FE5FE4B0C6}.Release|x86.ActiveCfg = Release|Win32
 		{AC6491B8-9150-4A10-8DC0-38FE5FE4B0C6}.Release|x86.Build.0 = Release|Win32
+		{CDB4E593-920D-4616-A6F3-D18C46859BEF}.Debug|x64.ActiveCfg = Debug|x64
+		{CDB4E593-920D-4616-A6F3-D18C46859BEF}.Debug|x64.Build.0 = Debug|x64
+		{CDB4E593-920D-4616-A6F3-D18C46859BEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{CDB4E593-920D-4616-A6F3-D18C46859BEF}.Debug|x86.Build.0 = Debug|Win32
+		{CDB4E593-920D-4616-A6F3-D18C46859BEF}.Release|x64.ActiveCfg = Release|x64
+		{CDB4E593-920D-4616-A6F3-D18C46859BEF}.Release|x64.Build.0 = Release|x64
+		{CDB4E593-920D-4616-A6F3-D18C46859BEF}.Release|x86.ActiveCfg = Release|Win32
+		{CDB4E593-920D-4616-A6F3-D18C46859BEF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
