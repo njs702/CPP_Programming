@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Junseok\source\repos\CPP_Programming\CPP_programming_home\cpp_inheritance\main.cpp(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Users\Junseok\source\repos\CPP_Programming\CPP_programming_home\cpp_inheritance\main.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+  cpp_inheritance.vcxproj -> C:\Users\Junseok\source\repos\CPP_Programming\CPP_programming_home\Debug\cpp_inheritance.exe
