@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{cdb4e593-920d-4616-a6f3-d18c46859bef}</ProjectGuid>
-    <RootNamespace>cppoperationfunctionclasswithbasic</RootNamespace>
+    <ProjectGuid>{4af37e2e-144f-4261-8bfa-998f43e350bc}</ProjectGuid>
+    <RootNamespace>cppvirtualfunction3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
