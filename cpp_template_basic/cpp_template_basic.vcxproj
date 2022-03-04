@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1ba61ba8-2996-4bf3-8ef4-900a71cee184}</ProjectGuid>
-    <RootNamespace>cpppurevirtualfunction</RootNamespace>
+    <ProjectGuid>{954e77ee-a488-4820-a120-9d2fd12ce7f4}</ProjectGuid>
+    <RootNamespace>cpptemplatebasic</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
