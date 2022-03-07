@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\USER\source\repos\CPP_programming\cpp_class_template\main.cpp(20,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\USER\source\repos\CPP_programming\cpp_class_template\main.cpp(19): message : 클래스 템플릿 멤버 함수 'void PosValue<double>::OutValue(void)'을(를) 컴파일하는 중입니다.
+C:\Users\USER\source\repos\CPP_programming\cpp_class_template\main.cpp(31): message : 컴파일되는 함수 템플릿 인스턴스화 'void PosValue<double>::OutValue(void)'에 대한 참조를 확인하세요.
+C:\Users\USER\source\repos\CPP_programming\cpp_class_template\main.cpp(28): message : 컴파일되는 클래스 템플릿 인스턴스화 'PosValue<double>'에 대한 참조를 확인하세요.
+  cpp_class_template.vcxproj -> C:\Users\USER\source\repos\CPP_programming\x64\Debug\cpp_class_template.exe
