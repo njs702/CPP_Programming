@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class_template_member_funct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class_template_nontype_argument", "class_template_nontype_argument\class_template_nontype_argument.vcxproj", "{46F1689F-7E16-4B77-A9CD-24EE36BC8FC2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cpp_exception_try_catch", "cpp_exception\cpp_exception.vcxproj", "{4CAD1CE1-396C-487E-97C1-74AA1E91B9DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{46F1689F-7E16-4B77-A9CD-24EE36BC8FC2}.Release|x64.Build.0 = Release|x64
 		{46F1689F-7E16-4B77-A9CD-24EE36BC8FC2}.Release|x86.ActiveCfg = Release|Win32
 		{46F1689F-7E16-4B77-A9CD-24EE36BC8FC2}.Release|x86.Build.0 = Release|Win32
+		{4CAD1CE1-396C-487E-97C1-74AA1E91B9DF}.Debug|x64.ActiveCfg = Debug|x64
+		{4CAD1CE1-396C-487E-97C1-74AA1E91B9DF}.Debug|x64.Build.0 = Debug|x64
+		{4CAD1CE1-396C-487E-97C1-74AA1E91B9DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CAD1CE1-396C-487E-97C1-74AA1E91B9DF}.Debug|x86.Build.0 = Debug|Win32
+		{4CAD1CE1-396C-487E-97C1-74AA1E91B9DF}.Release|x64.ActiveCfg = Release|x64
+		{4CAD1CE1-396C-487E-97C1-74AA1E91B9DF}.Release|x64.Build.0 = Release|x64
+		{4CAD1CE1-396C-487E-97C1-74AA1E91B9DF}.Release|x86.ActiveCfg = Release|Win32
+		{4CAD1CE1-396C-487E-97C1-74AA1E91B9DF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
